@@ -88,6 +88,6 @@ function accepted() {
 function kembali() {
 	//window.close();
 	//window.location = 'pengumuman.html';
-	location.reload();
+	window.location.reload();
 	sessionStorage.clear();
 }
