@@ -87,6 +87,7 @@ function accepted() {
 
 function kembali() {
 	//window.close();
-	window.location = 'pengumuman.html';
+	//window.location = 'pengumuman.html';
+	location.reload();
 	sessionStorage.clear();
 }
