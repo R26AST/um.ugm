@@ -111,7 +111,7 @@ function rejected(data) {
         '<div class="index-rejected-content-lower-column index-rejected-content-lower-column-25">' +
         '<div class="index-rejected-content-lower-column-field">' +
         '<span class="index-rejected-content-lower-column-field-caption">Tanggal Lahir</span>' +
-        '<span class="index-rejected-content-lower-column-field-value" id="index-rejected-birthday">' + tgl_lahir + '</span>' +
+        '<span class="index-rejected-content-lower-column-field-value" id="index-rejected-birthday">' + thn_lahir + bln_lahir + tgl_lahir + '</span>' +
         '</div>' +
         /* '<div class="index-rejected-content-lower-column-field">'+
             '<span class="index-rejected-content-lower-column-field-caption">Asal Sekolah</span>'+
