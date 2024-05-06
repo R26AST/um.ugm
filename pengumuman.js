@@ -131,12 +131,14 @@ function rejected(data) {
         '</div>' +
         '</div>' +
         '</div>' +
-	    /*'<div class="index-accepted-footer">' +*/
-	    '<div class="index-rejected-content-lower-column index-rejected-content-lower-column-25">'+
-            '<div class="index-rejected-content-lower-column-field">'+
+	  '<div class="index-accepted-footer">' +
+	 /* '<div class="index-rejected-content-lower-column index-rejected-content-lower-column-25">'+
+          '<div class="index-rejected-content-lower-column-field">'+*/
 	    '</div> <br>' +
 		'<input type="button" class="index-form-content-footer-submit" id="index-form-kembali" value="KEMBALI" onclick="kembali()">' +
-        '</div>';;
+            '</div>' +
+	/*   '</div>' +*/
+	   '</div>';
     document.getElementById('index').innerHTML = tmpl;
 }
 
