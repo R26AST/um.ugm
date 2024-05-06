@@ -131,6 +131,7 @@ function rejected(data) {
         '</div>' +
         '</div>' +
         '</div>' +
+	    '<div class="index-accepted-footer">' +
 	    '</div> <br>' +
 		'<input type="button" class="index-form-content-footer-submit" id="index-form-kembali" value="KEMBALI" onclick="kembali()">' +
         '</div>';;
