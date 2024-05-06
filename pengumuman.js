@@ -130,7 +130,10 @@ function rejected(data) {
         '</div>'+ */
         '</div>' +
         '</div>' +
-        '</div>';
+        '</div>' +
+	    '</div> <br>' +
+		'<input type="button" class="index-form-content-footer-submit" id="index-form-kembali" value="KEMBALI" onclick="kembali()">' +
+        '</div>';;
     document.getElementById('index').innerHTML = tmpl;
 }
 
