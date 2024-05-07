@@ -13,7 +13,7 @@ function sendData() {
 	thn_lahir = sessionStorage.getItem('thn'),
 	prodi = sessionStorage.getItem('prodi');
 	
-	if (sessionStorage.getItem('pil') === 0) {
+	if (sessionStorage.getItem('pil') == 0) {
 	accepted();
 	}
 	else {
