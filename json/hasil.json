@@ -1,0 +1,48 @@
+[
+    {
+        "id": "24353014051611062006",
+		"diterima": 1,
+		"nopes": "24 - 3530 - 140516",
+		"nama": "PUTRAKU RULIFF ABBAS",
+		"tl": "11 - 06 - 2006",
+		"kode_ptn": "361",
+		"nama_ptn": "UNIVERSITAS GADJAH MADA",
+		"kode_prodi": "3611387",
+		"nama_prodi": "TEKNIK ELEKTRO"
+    },
+    {
+        "id": "12345678901201022006",
+		"diterima": 1,
+		"nopes": "12 - 3456 - 789012",
+		"nama": "NAMA PESERTA",
+		"tl": "01 - 02 - 2006",
+		"kode_ptn": "000",
+		"nama_ptn": "UNIVERSITAS NEGERI",
+		"kode_prodi": "1234567"
+		"nama_prodi": "PRODI"
+    },
+    {
+        "id": "24362005026023092006",
+		"diterima": 1,
+		"nopes": "24 - 3620 - 050260",
+		"nama": "ALMAAS MUFIIDAH",
+		"tl": "23 - 09 - 2006",
+		"kode_ptn": "362",
+		"nama_ptn": "UNIVERSITAS NEGERI YOGYAKARTA",
+		"kode_prodi": "3622242",
+		"nama_prodi": "PENDIDIKAN GURU SEKOLAH DASAR"
+    }
+    ,
+    {
+        "id": 4,
+        "bahas": ""
+    },
+    {
+        "id": 5,
+        "bahas": "Product 5"
+    },
+    {
+        "id": 6,
+        "bahas": "Product 6"
+    }
+]
