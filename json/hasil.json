@@ -1,6 +1,6 @@
 [
     {
-        "id": "24353014051611062006",
+        "id": 24353014051611062006,
 		"diterima": 1,
 		"nopes": "24 - 3530 - 140516",
 		"nama": "PUTRAKU RULIFF ABBAS",
@@ -11,7 +11,7 @@
 		"nama_prodi": "TEKNIK ELEKTRO"
     },
     {
-        "id": "12345678901201022006",
+        "id": 12345678901201022006,
 		"diterima": 1,
 		"nopes": "12 - 3456 - 789012",
 		"nama": "NAMA PESERTA",
