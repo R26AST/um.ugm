@@ -84,7 +84,7 @@ function accepted() {
         /* '<p class="index-accepted-footer-paragraph">Status penerimaan Anda sebagai mahasiswa akan ditetapkan setelah PTN tujuan melakukan verifikasi data akademik (rapor dan/atau portofolio). Silakan Anda membaca peraturan tentang penerimaan mahasiswa baru di laman PTN tujuan. </p>' +
         '<p class="index-accepted-footer-paragraph">Khusus peserta KIP Kuliah, PTN tujuan juga dapat melakukan verifikasi data ekonomi dan/atau kunjungan ke tempat tinggal Anda sebelum menetapkan status penerimaan Anda.</p>' + */
         '</div> <br>' +
-		'<input type="button" class="index-form-content-footer-submit" id="index-form-kembali" value="KEMBALI" onclick="kembali()">' +
+		/*'<input type="button" class="index-form-content-footer-submit" id="index-form-kembali" value="KEMBALI" onclick="kembali()">' + */
         '</div>';
     document.getElementById('index').innerHTML = tmpl;
 	
