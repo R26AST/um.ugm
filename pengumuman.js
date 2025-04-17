@@ -66,12 +66,12 @@ function accepted() {
         '<div class="index-accepted-content-lower-column index-accepted-content-lower-column-50">' +
         '<div class="index-accepted-content-lower-column-note">' +
         '<span class="index-accepted-content-lower-column-note-title">Informasi</span><ul>'+
-        '<li>Prosedur Registrasi Calon Mahasiswa dapat dilihat <a href="http://ugm.id/pengumumanUM" target="_blank">di sini</a>.</li>'+
+        '<li>Prosedur Registrasi Calon Mahasiswa dapat dilihat <a href="http://ugm.id/" target="_blank">di sini</a>.</li>'+
 /*
 	'<li>Registrasi melalui laman <a href="https://simaster.ugm.ac.id/" target="_blank" class="index-accepted-content-lower-column-note-link" id="index-accepted-link">https://simaster.ugm.ac.id/</a></li>'+
  */
  	'<li>Informasi hunian asrama bagi mahasiswa baru UGM <a href="https://residence.ugm.ac.id/" target="_blank" class="index-accepted-content-lower-column-note-link" id="index-accepted-link">https://residence.ugm.ac.id</a></li>'+
-        '<li>Informasi tentang PPSMB <a href="http://ugm.id/PPSMBUGM/" target="_blank" class="index-accepted-content-lower-column-note-link" id="index-accepted-link">http://ugm.id/PPSMBUGM</a></li>'+
+        '<li>Informasi tentang Pionir <a href="http://pionir.ugm.id/" target="_blank" class="index-accepted-content-lower-column-note-link" id="index-accepted-link">http://pionir.ugm.id/</a></li>'+
         '</ul>' +
         // '<span class="index-accepted-content-lower-column-note-title">Registrasi.</span>' +
         // '<span class="index-accepted-content-lower-column-note-subtitle">Silakan melakukan registrasi pada laman berikut:</span>' +
